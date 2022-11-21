@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://micromatrix.cf</id>
+    <title>micromatrix</title>
+    <updated>2022-11-21T02:33:23.926Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://micromatrix.cf"/>
+    <link rel="self" href="https://micromatrix.cf/atom.xml"/>
+    <subtitle>一个菜鸟的笔记网站</subtitle>
+    <logo>https://micromatrix.cf/images/avatar.png</logo>
+    <icon>https://micromatrix.cf/favicon.ico</icon>
+    <rights>All rights reserved 2022, micromatrix</rights>
+    <entry>
+        <title type="html"><![CDATA[代理工具使用说明]]></title>
+        <id>https://micromatrix.cf/syf8X1spe/</id>
+        <link href="https://micromatrix.cf/syf8X1spe/">
+        </link>
+        <updated>2022-11-11T00:32:56.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="工具说明">工具说明</h2>
+<p>本文采用的工具是qv2ray,使用的代理节点类型是v2ray。文章涉及的工具qv2ray分为2部分，一个是外壳工具<code>qv2ray</code>，另一个是内核<code>xray</code>。这里提到的是电脑端使用的工具。<br>
+对于移动端，IOS需要下载<code>小火箭(Shadowrocket)</code>，Android需要下载<code>V2RayNG</code>。移动端是不需要安装</p>
+<ol>
+<li>qv2ray是一个图形界面外壳，<strong>真正能运行节点配置文件的是内核xray</strong>。</li>
+<li>Xray是V2ray的超集。虽然最新版V2ray删除了XTLS，但仍保留VLESS协议。Xray提供完整的VLESS和XTLS支持，目前是V2ray的超集，但后续Xray可能会有会有自己的发展方向。</li>
+<li>Shadowrocket是一个通用的 iOS VPN 应用，它支持众多协议，如 Shadowsocks、VMess、SSR 等。这个目前只有美区苹果账号才可以下载，需要$2.99。</li>
+<li>V2RayNG 是一个基于 V2Ray 内核的 Android 应用，它可以创建基于 VMess 的 VPN 连接。</li>
+</ol>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="工具说明">工具说明</h2>
+<p>本文采用的工具是qv2ray,使用的代理节点类型是v2ray。文章涉及的工具qv2ray分为2部分，一个是外壳工具<code>qv2ray</code>，另一个是内核<code>xray</code>。这里提到的是电脑端使用的工具。<br>
+对于移动端，IOS需要下载<code>小火箭(Shadowrocket)</code>，Android需要下载<code>V2RayNG</code>。移动端是不需要安装</p>
+<ol>
+<li>qv2ray是一个图形界面外壳，<strong>真正能运行节点配置文件的是内核xray</strong>。</li>
+<li>Xray是V2ray的超集。虽然最新版V2ray删除了XTLS，但仍保留VLESS协议。Xray提供完整的VLESS和XTLS支持，目前是V2ray的超集，但后续Xray可能会有会有自己的发展方向。</li>
+<li>Shadowrocket是一个通用的 iOS VPN 应用，它支持众多协议，如 Shadowsocks、VMess、SSR 等。这个目前只有美区苹果账号才可以下载，需要$2.99。</li>
+<li>V2RayNG 是一个基于 V2Ray 内核的 Android 应用，它可以创建基于 VMess 的 VPN 连接。</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 + Vite + Ts + Axios + Pinia + VueRouter 配置教程]]></title>
+        <id>https://micromatrix.cf/I1MPweBFN/</id>
+        <link href="https://micromatrix.cf/I1MPweBFN/">
+        </link>
+        <updated>2022-11-06T01:40:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git工作流程]]></title>
+        <id>https://micromatrix.cf/VMi--Ka_h/</id>
+        <link href="https://micromatrix.cf/VMi--Ka_h/">
+        </link>
+        <updated>2022-11-05T03:31:42.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>在日常工作和学习中，会遇到多人开发项目。那么项目之间的合并就是一个大问题。多人开发采用git管理代码，如果没有一个好的git工作流程就会导致项目维护巨难受。凑齐之前看到一个大佬的视频，介绍了一套git上多人开发的工作流程。总结(copy)了一下。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>在日常工作和学习中，会遇到多人开发项目。那么项目之间的合并就是一个大问题。多人开发采用git管理代码，如果没有一个好的git工作流程就会导致项目维护巨难受。凑齐之前看到一个大佬的视频，介绍了一套git上多人开发的工作流程。总结(copy)了一下。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git设置代理]]></title>
+        <id>https://micromatrix.cf/kE26UPIIR/</id>
+        <link href="https://micromatrix.cf/kE26UPIIR/">
+        </link>
+        <updated>2022-09-28T02:27:41.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>git的服务器在国外，导致正常拉github项目会很慢，还有可能会超时。所以需要一个科学上网软件，设置代理端口。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>git的服务器在国外，导致正常拉github项目会很慢，还有可能会超时。所以需要一个科学上网软件，设置代理端口。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE安装Openwrt]]></title>
+        <id>https://micromatrix.cf/F5UTvYi1N/</id>
+        <link href="https://micromatrix.cf/F5UTvYi1N/">
+        </link>
+        <updated>2022-09-14T01:28:37.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>一直以来家里的旧电脑闲置着，偶尔也会搞一下Linux系统。但是由于知识匮乏每次重新安装Linux系统很麻烦，就思考为啥不能像服务器运营商一样，每次重新安装系统就重置一下就好了。找了很久发现了Proxmox这个基于debian制作的虚拟机系统。如何安装查看我以往的文章，或许可以给你提供一些帮助。<br>
+<a href="https://micromatrix.gq/VL2F9qU_1/">笔记本安装proxmox </a><br>
+长久以来玩这个系统，看见很多人弄All in one和单臂路由。但是由于人在外面工作，服务器在老家，所以先折腾如何安装openwrt系统，至于网络的问题等回家再做研究。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>一直以来家里的旧电脑闲置着，偶尔也会搞一下Linux系统。但是由于知识匮乏每次重新安装Linux系统很麻烦，就思考为啥不能像服务器运营商一样，每次重新安装系统就重置一下就好了。找了很久发现了Proxmox这个基于debian制作的虚拟机系统。如何安装查看我以往的文章，或许可以给你提供一些帮助。<br>
+<a href="https://micromatrix.gq/VL2F9qU_1/">笔记本安装proxmox </a><br>
+长久以来玩这个系统，看见很多人弄All in one和单臂路由。但是由于人在外面工作，服务器在老家，所以先折腾如何安装openwrt系统，至于网络的问题等回家再做研究。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS实现双指缩放]]></title>
+        <id>https://micromatrix.cf/double_swiper/</id>
+        <link href="https://micromatrix.cf/double_swiper/">
+        </link>
+        <updated>2022-09-09T07:32:56.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>随着移动端设备的普及，作为前端开发，难免会遇到图片双指放大的需求。触控设备可以直接使用手指进行交互，而且基本上都支持多点触控。所以，查阅了网上大佬的案例，编写一个vue指令，来完成双指放大图片的需求。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>随着移动端设备的普及，作为前端开发，难免会遇到图片双指放大的需求。触控设备可以直接使用手指进行交互，而且基本上都支持多点触控。所以，查阅了网上大佬的案例，编写一个vue指令，来完成双指放大图片的需求。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3和Vue2的一些写法区别]]></title>
+        <id>https://micromatrix.cf/GJxPK4G3e/</id>
+        <link href="https://micromatrix.cf/GJxPK4G3e/">
+        </link>
+        <updated>2022-08-19T02:23:52.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>本篇记录vue3和vue2在实现相同的逻辑上的一些语法差异，持续更新。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>本篇记录vue3和vue2在实现相同的逻辑上的一些语法差异，持续更新。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三种方法解锁网易云音乐】开VIP都无法播放的灰色音乐，教你如何解锁！]]></title>
+        <id>https://micromatrix.cf/DedO5Te9_/</id>
+        <link href="https://micromatrix.cf/DedO5Te9_/">
+        </link>
+        <updated>2022-07-24T02:32:05.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>现在听个歌曲可费劲了，QQ音乐，虾米音乐，网易云音乐 都得安装上！之前很简单的一个事情，现在弄的这么复杂</p>
+<p>而网易云音乐相信不需要我过多的介绍大家也都知道，很多人在听歌的时候也注意到了，由于各种限制很多的音乐呈现灰色的样式，是无法播放的。如下图所示，今天就 <strong>带大家把灰色不能听的音乐全部变成可以正常播放的音乐</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://blog.micromatrix.gq/post-images/1658886925256.png" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>现在听个歌曲可费劲了，QQ音乐，虾米音乐，网易云音乐 都得安装上！之前很简单的一个事情，现在弄的这么复杂</p>
+<p>而网易云音乐相信不需要我过多的介绍大家也都知道，很多人在听歌的时候也注意到了，由于各种限制很多的音乐呈现灰色的样式，是无法播放的。如下图所示，今天就 <strong>带大家把灰色不能听的音乐全部变成可以正常播放的音乐</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://blog.micromatrix.gq/post-images/1658886925256.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axios 上传文件]]></title>
+        <id>https://micromatrix.cf/SoYMicnwe/</id>
+        <link href="https://micromatrix.cf/SoYMicnwe/">
+        </link>
+        <updated>2022-07-22T08:00:22.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>记录一个今天遇到的问题:使用axio上传文件过程中，传入formData数据，然后提示 <code>the request was rejected because no multipart boundary was found</code>。首先，确定这个接口是可以使用的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>记录一个今天遇到的问题:使用axio上传文件过程中，传入formData数据，然后提示 <code>the request was rejected because no multipart boundary was found</code>。首先，确定这个接口是可以使用的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue3源码学习11-h方法和createVnode方法实现]]></title>
+        <id>https://micromatrix.cf/TW4I05DKa/</id>
+        <link href="https://micromatrix.cf/TW4I05DKa/">
+        </link>
+        <updated>2022-07-09T03:13:24.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>在实际开发中，经常用到h方法来实现页面，常见的组件中也有render，h这种写法。例如iview的table中<br>
+<img src="https://blog.micromatrix.gq/post-images/1657336643473.png" alt="" loading="lazy"><br>
+那么h用法也有很多的多样性。例如</p>
+<ul>
+<li><code> h(&quot;div&quot;,{style:{color: &quot;black&quot;}})</code></li>
+<li><code>h(&quot;div&quot;,h('span'))</code></li>
+<li><code>h('div', [h('span'),h('span)])</code></li>
+<li><code>h(&quot;div&quot;,&quot;hello&quot;)</code></li>
+<li><code>h(&quot;div&quot;,null,'hello','world')</code></li>
+<li><code>h('div',null, h('span'))</code></li>
+<li><code>h(&quot;div&quot;,{style:{color: &quot;white&quot;}},'hello')</code></li>
+<li><code>h(&quot;div&quot;,hello)</code></li>
+<li><code>h(&quot;div&quot;)</code><br>
+源码中h主要是调用createVnode方法创建虚拟dom，所以主要的东西在createVnode，h就像一个提供方便创造的可能。</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="摘要">摘要</h2>
+<p>在实际开发中，经常用到h方法来实现页面，常见的组件中也有render，h这种写法。例如iview的table中<br>
+<img src="https://blog.micromatrix.gq/post-images/1657336643473.png" alt="" loading="lazy"><br>
+那么h用法也有很多的多样性。例如</p>
+<ul>
+<li><code> h(&quot;div&quot;,{style:{color: &quot;black&quot;}})</code></li>
+<li><code>h(&quot;div&quot;,h('span'))</code></li>
+<li><code>h('div', [h('span'),h('span)])</code></li>
+<li><code>h(&quot;div&quot;,&quot;hello&quot;)</code></li>
+<li><code>h(&quot;div&quot;,null,'hello','world')</code></li>
+<li><code>h('div',null, h('span'))</code></li>
+<li><code>h(&quot;div&quot;,{style:{color: &quot;white&quot;}},'hello')</code></li>
+<li><code>h(&quot;div&quot;,hello)</code></li>
+<li><code>h(&quot;div&quot;)</code><br>
+源码中h主要是调用createVnode方法创建虚拟dom，所以主要的东西在createVnode，h就像一个提供方便创造的可能。</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
